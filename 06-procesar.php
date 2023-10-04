@@ -12,9 +12,9 @@
      echo "Completa todos los campos";
  }*/
 
- // Formulario con Array
+// Formulario con Array
 
- /*
+/*
  if (!empty($_GET["numeros"])) {
     $numeros = $_GET["numeros"];
     $numeros_array = explode(",", $numeros);
