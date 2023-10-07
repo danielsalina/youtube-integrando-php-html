@@ -1,0 +1,10 @@
+/* Reset de margen y relleno para todos los elementos */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos generales del cuerpo de la página */
+body {
+  background: linear-gradient(to bottom, #e29587, #d66d75);
+}
